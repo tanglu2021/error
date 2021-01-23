@@ -1,0 +1,2 @@
+#pip install的时候出现timeout错误
+pip install  --default-timeout=100 future
